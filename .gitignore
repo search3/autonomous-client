@@ -1,2 +1,4 @@
 facenet*
 *.pb
+*.jpg
+*.pkl
